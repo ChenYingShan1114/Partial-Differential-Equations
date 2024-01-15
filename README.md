@@ -1,7 +1,10 @@
 
 # Partial Differential Equation
 ## Reference
-A. L. Garcia, "Numerical Methods for Physics": Chapter 6, 7 and 8
+A. L. Garcia, "Numerical Methods for Physics": \
+    Chapter 6 Partial Differential Equations I: Foundations and Basic Explicit Methods \
+    Chapter 7 Partial Differential Equations II: Advanced Explicit Methods \
+    Chapter 8 Partial Differential Equations III: Relaxation and Spectral Methods
 ## Exercisies
 ### 6-1.dftcs
 (a) Write a function to evaluate Equation (6.16) numerically for $T(x,t)$ and reproduce Figure 6.6. \
